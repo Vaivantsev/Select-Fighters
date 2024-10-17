@@ -1,0 +1,22 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+body {
+  background-image: url(img/dark.jpg);
+}
+h1 {
+  text-align: center;
+  color: rgb(119, 119, 119);
+  font-family: "Cardo", serif;
+  font-size: 70px;
+  margin-top: 20px;
+}
+.select {
+  height: 200px;
+}
+
+.fighters {
+  display: flex;
+
+}
